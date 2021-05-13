@@ -1,6 +1,6 @@
 <div align="center">
-<a href="https://discord.gg/xCCpfth">
-    <img src="https://i.imgur.com/ubgkRRA.png" alt="Discord" width="250"/>
+<a href="https://discord.gg/rAgmnThdcz">
+    <img src="https://i.imgur.com/DLjs2JI.png" alt="Discord" width="250"/>
 </div>
 
 # SlickBot
@@ -17,10 +17,7 @@ Slick bot is a new project, this means many features are in development currentl
 
 
 <div>
-  <li>one
-  test
-  test
-  test</li>
+  <li></li>
   <li>two</li>
   <li>three</li>
   <li>four</li>
