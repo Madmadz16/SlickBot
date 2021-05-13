@@ -6,7 +6,11 @@
 # SlickBot
 Multipurpose Discord Bot
 
+Slick Bot is a new Multipurpose Discord bot that will enhance your discord server!
 
+The bot has all the features you need! With SlickBot you can kick all the different bots in your server for SlickBot. it has a lot of advanced features that will replace all bots u currently use!
+
+Note: This project is in the development stages and will be in beta until we finished the basic commands.
 
 
 
