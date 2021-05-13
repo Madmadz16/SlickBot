@@ -19,55 +19,55 @@ Slick bot is a new project, this means many features are in development currentl
 SLICK BOT FEATURES
 
 Legend:
-✅ Completed.
-🧰 In Development.
-📋 Planned
+- ✅ Completed.
+- 🧰 In Development.
+- 📋 Planned
 
 Moderation:
-📋 Mute/unmute system.
-📋 Kick/Ban/Unban system.
-📋 Badwords filter.
-📋 Anti invite links.
-📋 Anti Staff Pinging.
-📋 Anti Spam System.
-📋 Clear command.
-📋 Warn System.
-📋 Lock/Unlock Command.
+- 📋 Mute/unmute system.
+- 📋 Kick/Ban/Unban system.
+- 📋 Badwords filter.
+- 📋 Anti invite links.
+- 📋 Anti Staff Pinging.
+- 📋 Anti Spam System.
+- 📋 Clear command.
+- 📋 Warn System.
+- 📋 Lock/Unlock Command.
 
 Utility:
-📋 Announce command.
-📋 Poll command.
-📋 Suggestions System.
-📋 Ticket system.
-🧰 Embeds System.
-🧰 Auto Roles.
+- 📋 Announce command.
+- 📋 Poll command.
+- 📋 Suggestions System.
+- 📋 Ticket system.
+- 🧰 Embeds System.
+- 🧰 Auto Roles.
 
 Information:
-📋 Server Info.
-📋 User Info.
-📋 Avatar command.
-📋 Help command.
-📋 Server Roles command.
-📋 Server Emoji command.
-📋 Profile Info.
-📋 Notes System.
-📋 Action Log.
+- 📋 Server Info.
+- 📋 User Info.
+- 📋 Avatar command.
+- 📋 Help command.
+- 📋 Server Roles command.
+- 📋 Server Emoji command.
+- 📋 Profile Info.
+- 📋 Notes System.
+- 📋 Action Log.
 
 Misc & Fun:
-📋 Music system.
-📋 Roll A Dice.
-📋 Flip A Coin.
-📋 RPC command.
-📋 Emojify command.
-📋 Rep System.
-📋 Counting System.
-🧰 XP System.
+- 📋 Music system.
+- 📋 Roll A Dice.
+- 📋 Flip A Coin.
+- 📋 RPC command.
+- 📋 Emojify command.
+- 📋 Rep System.
+- 📋 Counting System.
+- 🧰 XP System.
 
 Dashboard:
-✅ Change Prefix.
-🧰 Enable/Disable Commands.
-🧰 Change Nickname.
-🧰 Welcome Module.
+- ✅ Change Prefix.
+- 🧰 Enable/Disable Commands.
+- 🧰 Change Nickname.
+- 🧰 Welcome Module.
 
 
 Default#8127 on discord
