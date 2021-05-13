@@ -74,4 +74,4 @@ Default#8127 on discord
 
 # Other
 
-More info about this project can be found in our [Discord Server](https://discord.gg/rAgmnThdcz)!!!
+More info about this project can be found in our Discord Server (https://discord.gg/rAgmnThdcz) !!!
