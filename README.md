@@ -18,12 +18,12 @@ Slick bot is a new project, this means many features are in development currentl
 
 SLICK BOT FEATURES
 
-Legend:
+**Legend:**
 - ✅ Completed.
 - 🧰 In Development.
 - 📋 Planned
 
-Moderation:
+**Moderation:**
 - 📋 Mute/unmute system.
 - 📋 Kick/Ban/Unban system.
 - 📋 Badwords filter.
@@ -34,7 +34,7 @@ Moderation:
 - 📋 Warn System.
 - 📋 Lock/Unlock Command.
 
-Utility:
+**Utility:**
 - 📋 Announce command.
 - 📋 Poll command.
 - 📋 Suggestions System.
@@ -42,7 +42,7 @@ Utility:
 - 🧰 Embeds System.
 - 🧰 Auto Roles.
 
-Information:
+**Information:**
 - 📋 Server Info.
 - 📋 User Info.
 - 📋 Avatar command.
@@ -53,7 +53,7 @@ Information:
 - 📋 Notes System.
 - 📋 Action Log.
 
-Misc & Fun:
+**Misc & Fun:**
 - 📋 Music system.
 - 📋 Roll A Dice.
 - 📋 Flip A Coin.
@@ -63,7 +63,7 @@ Misc & Fun:
 - 📋 Counting System.
 - 🧰 XP System.
 
-Dashboard:
+**Dashboard:**
 - ✅ Change Prefix.
 - 🧰 Enable/Disable Commands.
 - 🧰 Change Nickname.
@@ -71,3 +71,7 @@ Dashboard:
 
 
 Default#8127 on discord
+
+# Other
+
+More info about this project can be found in our [Discord Server](https://discord.gg/rAgmnThdcz)!!!
