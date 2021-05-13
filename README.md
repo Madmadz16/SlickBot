@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://discord.gg/xCCpfth">
-    <img src="https://i.imgur.com/ubgkRRA.png" alt="Discord" width="400"/>
+    <img src="https://i.imgur.com/ubgkRRA.png" alt="Discord" width="250"/>
 </div>
 
 # SlickBot
