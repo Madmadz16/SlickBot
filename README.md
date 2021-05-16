@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://discord.gg/rAgmnThdcz">
+<a href="https://i.imgur.com/bKxmSYu.png">
     <img src="https://i.imgur.com/DLjs2JI.png" alt="Discord" width="250"/>
 </div>
 
